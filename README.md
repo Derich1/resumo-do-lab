@@ -11,3 +11,9 @@
 ### CapEx: despesas de capital, ou seja, custos relacionados a compra de servidores, hacks, cabos, etc.
 
 ### OpEx: despesas operacionais que são relacionadas ao uso de nuvens públicas.
+
+## Benefícios da Nuvem
+#### Gerenciabilidade: conseguir criar e gerenciar recursos de diversas formas diferentes, podendo escolher o que mais se adequa as necessidades (ou habilidades)
+#### Alta disponibilidade: as nuvens tem um acordo chamado de SLA, Service Level Agreement, onde pode contratar quão disponível quer que a nuvem fique, variando entre 99% até 99,999%.
+#### Segurança: nuvens também oferecem recursos relacionados a segurança, porém é necessário entender que é necessário que o desenvolvedor aplique os serviços de segurança, porque a parte da cloud é de dispor eles, não de aplicá-los.
+#### Escalabilidade: o serviço de nuvem é altamente escalável, podendo suprir qualquer demanda que seja requisitada, só é importante lembrar que cloud você paga conforme você usa. Existem a escalabilidade vertical e escalabilidade horizontal.
