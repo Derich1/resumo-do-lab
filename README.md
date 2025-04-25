@@ -17,3 +17,8 @@
 #### Alta disponibilidade: as nuvens tem um acordo chamado de SLA, Service Level Agreement, onde pode contratar quão disponível quer que a nuvem fique, variando entre 99% até 99,999%.
 #### Segurança: nuvens também oferecem recursos relacionados a segurança, porém é necessário entender que é necessário que o desenvolvedor aplique os serviços de segurança, porque a parte da cloud é de dispor eles, não de aplicá-los.
 #### Escalabilidade: o serviço de nuvem é altamente escalável, podendo suprir qualquer demanda que seja requisitada, só é importante lembrar que cloud você paga conforme você usa. Existem a escalabilidade vertical e escalabilidade horizontal.
+
+## Tipos de Modelos de serviço
+### Iaas, Paas, e Saas. 
+### Infraestrutura como serviço, Plataforma como serviço e Software como serviço.
+### Nesta ordem de maior para menor responsabilidade do cliente, como por exemplo configurações e manutenção.
