@@ -22,3 +22,35 @@
 ### Iaas, Paas, e Saas. 
 ### Infraestrutura como serviço, Plataforma como serviço e Software como serviço.
 ### Nesta ordem de maior para menor responsabilidade do cliente, como por exemplo configurações e manutenção.
+
+## Regiões 
+### Conjuntos de um ou mais datacenters, que tambem são conhecidos como zonas de disponibilidade.
+
+## Regiões soberanas 
+### Acesso restrito por pessoas não autorizadas. Alguns exemplos são: região que o governo americano utiliza, região dachina.
+
+## Pares de regiões 
+### São regiões que servem de disaster recovery, ou seja, caso uma fique indisponível a outra "cobre" ela
+
+## Grupos de recursos
+### Forma de organizar os recursos criados dentro da plataforma.
+
+## Assinaturas
+### Uma conta pode possuir várias chaves de assinatura, e cada chave pertence a uma única conta.
+
+## Grupos de gerenciamento
+### Maneira de organizar os recursos criados.
+
+## Conjunto de disponibilidade de VM
+### Domínio de falha e domínio de atualização
+### Domínio de falha seria o rack onde estão os servidores e o domínio de atualização é cada "nível de prateleira"
+
+## Área de trabalho virtual
+### Sistemas operacionais, que são muito úteis por exemplo em um cenário onde tem um funcionário e que precisa de um equipamento para trabalhar, ao invés de dar, cria uma vm e da o acesso a ele, assim ele consegue trabalhar antes pois não precisa esperar chegar e quando sair da empresa é só tirar o acesso dele.
+
+## Serviços de contâiner
+### Instâncias, aplicativos, kubernets
+### Aplicativos seria por exemplo o docker.
+
+## Express route
+### Ela estende as redes locais para o Azure por meio de uma conexão privada facilitada por um provedor de conectividade. 
